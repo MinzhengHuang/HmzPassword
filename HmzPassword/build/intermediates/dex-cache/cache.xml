@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/build/intermediates/pre-dexed/debug/umeng-update-v2.6.0.1-2cbd846d572406b7906d9482d7deaf9837fa0b7f.jar" />
+    </item>
+    <item
+        jar="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/libs/feedback.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a0ff2576e16f84a9d1cd6d1c678afcf2dc292d1b">
+        <dex dex="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/build/intermediates/pre-dexed/debug/feedback-17584ada0e1e5d42a59fa4bdee2168639d2b98d3.jar" />
+    </item>
+    <item
+        jar="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/libs/umeng-analytics-v5.4.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="75ef4894b1489017838dc57dbe9a5782ab12c427">
+        <dex dex="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/build/intermediates/pre-dexed/debug/umeng-analytics-v5.4.2-53df0119dc196134df57236d94ee21dec308ba55.jar" />
+    </item>
+    <item
+        jar="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="/Users/huangminzheng/learn_and_work/hmz_github/HmzPassword/HmzPassword/build/intermediates/pre-dexed/debug/android-support-v4-1a05c1bcddf542843e6a1817ed471a0e5b8fd0e3.jar" />
+    </item>
+
+</items>

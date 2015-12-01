@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.Actionba_style"></style>
+
+    <style name="ActionBarOverlayTheme" parent="AppTheme">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+</resources>

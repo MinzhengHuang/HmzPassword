@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_about_us">关 于</string>
+    <string name="about_author">作者邮箱</string>
+    <string name="about_source">源代码</string>
+    <string name="about_source_open_failed">未安装网页浏览器，打开失败</string>
+    <string name="about_author_mail">mail@zengdexing.com</string>
+    <string name="about_version">当前版本</string>
+
+</resources>

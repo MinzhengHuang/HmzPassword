@@ -1,0 +1,46 @@
+# view res/layout/activity_main.xml #generated:1
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class cn.hmz.mypassword.activity.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class cn.hmz.mypassword.activity.EditPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class cn.hmz.mypassword.activity.EntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class cn.hmz.mypassword.activity.FeedbackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class cn.hmz.mypassword.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class cn.hmz.mypassword.activity.SetLockpatternActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class cn.hmz.mypassword.app.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class cn.hmz.mypassword.service.MainService { <init>(...); }
+
+# view res/layout/activity_entry.xml #generated:54
+# view res/layout/activity_set_lockpattern.xml #generated:19
+-keep class cn.hmz.mypassword.view.LockPatternView { <init>(...); }
+
+# view res/layout/fragment_password_list.xml #generated:8
+-keep class com.twotoasters.jazzylistview.JazzyListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.umeng.update.UpdateDialogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.umeng.update.net.DownloadingService { <init>(...); }
+
+# onClick res/layout/activity_about.xml #generated:109
+-keepclassmembers class * { *** onFeedbackClick(...); }
+
+# onClick res/layout/activity_about.xml #generated:77
+-keepclassmembers class * { *** onSourceClick(...); }
+
